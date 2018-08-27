@@ -1,0 +1,8 @@
+user story:
+As a: Rental car customer
+I wan to: rent a car
+So that: I can go on a trip
+scenarios:
+* The car I want to rent is available
+* The car I want to rent is not available
+* There is a better car available but I want it for the same price
